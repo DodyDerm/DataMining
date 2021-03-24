@@ -1,0 +1,10 @@
+Importer,Load(tons),Bill,40' container
+China,95,40000000,Yes
+Brazil,92,36000000,Yes
+Germany,65,28000000,No
+Brazil,55,25000000,No
+Germany,,32000000,Yes
+Germany,88,35000000,No
+China,73,29000000,No
+China,99,45000000,Yes
+Brazil,69,,No
